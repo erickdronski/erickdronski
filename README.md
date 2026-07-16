@@ -30,13 +30,9 @@
 | **Precision Algorithms** — a published prediction-market models desk | Live web product | Data · Web | [Live](https://precisionalgorithms.com) |
 | **SqueezeRadar** — short-squeeze signals with live price overlays | Live web product | Next.js · Market data | [Live](https://short-squeeze-radar.vercel.app) |
 | **Penny Catcher** — volume and flow radar for quiet, low-priced tickers | Live web product | Web · Market data | [Live](https://penny-catcher.vercel.app) |
-| **GitHub Achievement Audit** — transparent readiness evidence from the GitHub REST API | Open-source CLI | Node.js · GitHub API | [Source](https://github.com/erickdronski/github-achievement-audit) · [CI](https://github.com/erickdronski/github-achievement-audit/actions/workflows/audit.yml) |
+### GitHub proof
 
-### Open-source proof
-
-[![Achievement readiness audit](https://github.com/erickdronski/github-achievement-audit/actions/workflows/audit.yml/badge.svg)](https://github.com/erickdronski/github-achievement-audit/actions/workflows/audit.yml)
-
-[Achievements](https://github.com/erickdronski?tab=achievements) · [Public repositories](https://github.com/erickdronski?tab=repositories&type=source) · [Merged pull requests](https://github.com/search?q=author%3Aerickdronski+is%3Apr+is%3Amerged&type=pullrequests) · [Achievement audit](https://github.com/erickdronski/github-achievement-audit)
+[Achievements](https://github.com/erickdronski?tab=achievements) · [Public repositories](https://github.com/erickdronski?tab=repositories&type=source) · [Merged pull requests](https://github.com/search?q=author%3Aerickdronski+is%3Apr+is%3Amerged&type=pullrequests)
 
 ### Day job
 
