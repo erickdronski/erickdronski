@@ -30,6 +30,7 @@
 | **Precision Algorithms** — a published prediction-market models desk | Live web product | Data · Web | [Live](https://precisionalgorithms.com) |
 | **SqueezeRadar** — short-squeeze signals with live price overlays | Live web product | Next.js · Market data | [Live](https://short-squeeze-radar.vercel.app) |
 | **Penny Catcher** — volume and flow radar for quiet, low-priced tickers | Live web product | Web · Market data | [Live](https://penny-catcher.vercel.app) |
+
 ### GitHub proof
 
 [Achievements](https://github.com/erickdronski?tab=achievements) · [Public repositories](https://github.com/erickdronski?tab=repositories&type=source) · [Merged pull requests](https://github.com/search?q=author%3Aerickdronski+is%3Apr+is%3Amerged&type=pullrequests)
