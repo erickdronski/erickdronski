@@ -62,12 +62,12 @@
 
 <p align="center">
   <a href="https://nalee.app">
-    <img src="https://img.shields.io/badge/Nalee-Live_on_the_App_Store-34C759?style=for-the-badge&logo=apple&logoColor=white" />
+    <img alt="Nalee — live on the App Store" src="https://img.shields.io/badge/Nalee-Live_on_the_App_Store-34C759?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
   <a href="https://erickdronski.com">
-    <img src="https://img.shields.io/badge/Portfolio-erickdronski.com-0F1E35?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img alt="Portfolio — erickdronski.com" src="https://img.shields.io/badge/Portfolio-erickdronski.com-0F1E35?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/erickdronski">
-    <img src="https://img.shields.io/badge/LinkedIn-18K+_Followers-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn — 18K+ followers" src="https://img.shields.io/badge/LinkedIn-18K+_Followers-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
