@@ -1,67 +1,65 @@
-<h1 align="center">Hey, I'm Erick 👋</h1>
+<h1 align="center">Hey, I'm Erick Dronski 👋</h1>
 
 <p align="center">
-  <strong>Value Engineer @ Ivanti · Indie iOS + web builder · AI-first shipper</strong>
+  <strong>Value Engineer @ Ivanti · I build and ship native iOS and data products—from App Store releases to live market systems.</strong>
 </p>
 
 <p align="center">
-  <a href="https://erickdronski.com">🌐 erickdronski.com</a> ·
+  <a href="https://apps.apple.com/us/app/nalee/id6785313667">App Store release</a> ·
+  <a href="https://erickdronski.com">Portfolio</a> ·
+  <a href="https://github.com/erickdronski?tab=repositories&type=source">Public source</a> ·
+  <a href="https://github.com/erickdronski?tab=achievements">GitHub achievements</a>
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/erickdronski">LinkedIn</a> ·
   <a href="https://x.com/DronskiErick">X/Twitter</a> ·
-  <a href="https://www.tiktok.com/@dr0nski">TikTok</a> ·
-  <a href="https://precisionalgorithms.com">Precision Algorithms</a>
+  <a href="https://www.tiktok.com/@dr0nski">TikTok</a>
 </p>
 
 ---
 
-### Apps I've shipped
+### Shipping ledger
 
-- 🌿 **[Nalee](https://nalee.app)** · Live on the App Store. Scan any product and get an honest toxin score, backed by a 2.4M+ product library and a per-category scoring engine. Expo + Supabase.
-- 🍺 **[Tapt](https://taptbeer.com)** · THE beer superapp. Scan any beer on Earth, stamp your Passport, ride the live beer market. Native Swift + Supabase. ([source](https://github.com/erickdronski/tapt))
-- 💛 **[Mend](https://github.com/erickdronski/mend-app)** · A free app for couples repairing a marriage. Journey engine, shared Spaces, zero paywalls. On TestFlight.
-- 📍 **[Lore](https://github.com/erickdronski/lore-ios)** · Every street is hiding a story. A geospatial place-story scanner for iOS, in development. Swift + Supabase.
+| Product | State | Built with | Proof |
+| --- | --- | --- | --- |
+| **Nalee** — honest product-toxin scoring backed by a 2.4M+ product library | Live on the App Store | Expo · Supabase | [App Store](https://apps.apple.com/us/app/nalee/id6785313667) · [Site](https://nalee.app) |
+| **Tapt** — beer discovery, Passport collecting, and a live beer market | Native iOS release lane | Swift · Supabase | [Source](https://github.com/erickdronski/tapt) · [Site](https://taptbeer.com) |
+| **Mend** — a free journey and shared-space app for couples repairing a marriage | TestFlight | Mobile · Supabase | [Source](https://github.com/erickdronski/mend-app) |
+| **Lore** — geospatial place stories hiding in the streets around you | Native iOS / TestFlight lane | Swift · Supabase | [Source](https://github.com/erickdronski/lore-ios) |
+| **Precision Algorithms** — a published prediction-market models desk | Live web product | Data · Web | [Live](https://precisionalgorithms.com) |
+| **SqueezeRadar** — short-squeeze signals with live price overlays | Live web product | Next.js · Market data | [Live](https://short-squeeze-radar.vercel.app) |
+| **Penny Catcher** — volume and flow radar for quiet, low-priced tickers | Live web product | Web · Market data | [Live](https://penny-catcher.vercel.app) |
+| **GitHub Achievement Audit** — transparent readiness evidence from the GitHub REST API | Open-source CLI | Node.js · GitHub API | [Source](https://github.com/erickdronski/github-achievement-audit) · [CI](https://github.com/erickdronski/github-achievement-audit/actions/workflows/audit.yml) |
 
-### Live on the web
+### Open-source proof
 
-- 📈 **[Precision Algorithms](https://precisionalgorithms.com)** · Prediction-market models desk. Published model record across Kalshi and Polymarket.
-- 🩳 **[SqueezeRadar](https://short-squeeze-radar.vercel.app)** · Free short-squeeze dashboard with live price overlays.
-- 🪙 **[Penny Catcher](https://penny-catcher.vercel.app)** · Volume and flow radar that watches cheap, quiet tickers for the moment they wake up.
-- 🖥️ **[erickdronski.com](https://erickdronski.com)** · The portfolio itself, rebuilt from scratch (v6 of 7 attempts, which tells you something about my standards).
+[![Achievement readiness audit](https://github.com/erickdronski/github-achievement-audit/actions/workflows/audit.yml/badge.svg)](https://github.com/erickdronski/github-achievement-audit/actions/workflows/audit.yml)
+
+[Achievements](https://github.com/erickdronski?tab=achievements) · [Public repositories](https://github.com/erickdronski?tab=repositories&type=source) · [Merged pull requests](https://github.com/search?q=author%3Aerickdronski+is%3Apr+is%3Amerged&type=pullrequests) · [Achievement audit](https://github.com/erickdronski/github-achievement-audit)
 
 ### Day job
 
-- 🏢 **Ivanti** · Value engineering and AI adoption strategy for enterprise clients. Built the [Capability & Maturity Assessment](https://www.ivanti.com/resources/capabilities) framework.
+**Ivanti** · Value engineering and AI adoption strategy for enterprise clients. I built the [Capability & Maturity Assessment](https://www.ivanti.com/resources/capabilities) framework.
 
-### Tech I work with
+### Working stack
 
-<p>
-  <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img alt="Claude AI" src="https://img.shields.io/badge/Claude_AI-191919?style=flat-square&logo=anthropic&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-</p>
+- **Native:** Swift, SwiftUI, Expo, React Native
+- **Web:** TypeScript, Next.js, React, Tailwind CSS, Node.js
+- **Data and delivery:** Supabase, Python, GitHub Actions, Vercel
 
-### A few things about me
+### Beyond the build
 
-- 🎓 MBA with a concentration in Data Analytics (Rowan University)
-- 🇵🇱 First-generation Polish-American, based in New Jersey
-- 🦅 Philly sports across all four (it's a lifestyle)
-- ⛳ On the golf course whenever possible
-- 🧠 Memorized 130 digits of Pi, verified on the [world record list](https://www.pi-world-ranking-list.com/?page=lists&category=pi)
-- 📈 18K+ LinkedIn followers · 3x Top Voice
+- MBA, Data Analytics concentration — Rowan University
+- First-generation Polish-American, based in New Jersey
+- 18K+ LinkedIn followers and 3× Top Voice
+- Philly sports across all four, golf whenever possible
+- 130 memorized digits of Pi, listed on the [Pi World Ranking List](https://www.pi-world-ranking-list.com/?page=lists&category=pi)
 
 ---
 
 <p align="center">
-  <a href="https://nalee.app">
+  <a href="https://apps.apple.com/us/app/nalee/id6785313667">
     <img alt="Nalee — live on the App Store" src="https://img.shields.io/badge/Nalee-Live_on_the_App_Store-34C759?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
   <a href="https://erickdronski.com">
