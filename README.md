@@ -25,15 +25,15 @@
 | --- | --- | --- | --- |
 | **Nalee** — honest product-toxin scoring backed by a 2.4M+ product library | Live on the App Store | Expo · Supabase | [App Store](https://apps.apple.com/us/app/nalee/id6785313667) · [Site](https://nalee.app) |
 | **Tapt** — beer discovery, Passport collecting, and a live beer market | Native iOS release lane | Swift · Supabase | [Source](https://github.com/erickdronski/tapt) · [Site](https://taptbeer.com) |
-| **Mend** — a free journey and shared-space app for couples repairing a marriage | TestFlight | Mobile · Supabase | [Source](https://github.com/erickdronski/mend-app) |
+| **Mend** — a free, private journey and shared-space app for relationship repair | TestFlight | Expo · TypeScript · Supabase | [Source](https://github.com/erickdronski/mend-app) |
 | **Lore** — geospatial place stories hiding in the streets around you | Native iOS / TestFlight lane | Swift · Supabase | [Source](https://github.com/erickdronski/lore-ios) |
 | **Precision Algorithms** — a published prediction-market models desk | Live web product | Data · Web | [Live](https://precisionalgorithms.com) |
 | **SqueezeRadar** — short-squeeze signals with live price overlays | Live web product | Next.js · Market data | [Live](https://short-squeeze-radar.vercel.app) |
 | **Penny Catcher** — volume and flow radar for quiet, low-priced tickers | Live web product | Web · Market data | [Live](https://penny-catcher.vercel.app) |
 
-### GitHub proof
+### Engineering proof
 
-[Achievements](https://github.com/erickdronski?tab=achievements) · [Public repositories](https://github.com/erickdronski?tab=repositories&type=source) · [Merged pull requests](https://github.com/search?q=author%3Aerickdronski+is%3Apr+is%3Amerged&type=pullrequests)
+[Tapt release automation](https://github.com/erickdronski/tapt/tree/main/.github/workflows) · [Lore CI and TestFlight](https://github.com/erickdronski/lore-ios/blob/main/.github/workflows/ios-testflight.yml) · [Merged pull requests](https://github.com/search?q=author%3Aerickdronski+is%3Apr+is%3Amerged&type=pullrequests) · [Achievements](https://github.com/erickdronski?tab=achievements)
 
 ### Day job
 
