@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Erick Dronski 👋</h1>
 
 <p align="center">
-  <strong>Value Engineer @ Ivanti · I build and ship native iOS and data products—from App Store releases to live market systems.</strong>
+  <strong>Value Engineer @ Ivanti · I build open-source tooling for AI coding agents, plus native iOS and data products — from App Store releases to live market systems.</strong>
 </p>
 
 <p align="center">
@@ -19,6 +19,24 @@
 
 ---
 
+### Open source — tooling for AI coding agents
+
+Small, standalone tools. All MIT, all zero-dependency, all with real test suites.
+
+| Repo | What it does |
+| --- | --- |
+| **[agentsmith](https://github.com/erickdronski/agentsmith)** | Mines your repo's *actual* conventions into an `AGENTS.md`, with evidence for every rule — and detects drift in CI when the file and the repo disagree. No LLM, no network. |
+| **[burnrate](https://github.com/erickdronski/burnrate)** | What your coding agent actually cost, read from local session logs, plus a hook that caps spend mid-session. Fixes a ~3× overcount that naive token counters hit. |
+| **[tripwire](https://github.com/erickdronski/tripwire)** | Offline audit of the skills, MCP servers, hooks, and permissions installed for your agent. Shows your real capability surface, then flags how it can be turned against you. |
+| **[contexttest](https://github.com/erickdronski/contexttest)** | A/B testing for `AGENTS.md`. Runs the same task from the same commit under two instruction sets and reports which one measurably worked. |
+| **[gtm-skills](https://github.com/erickdronski/gtm-skills)** | Nine production-grade go-to-market skills for agents — business cases, ICP scoring, pricing, market sizing — on a tested arithmetic engine with an assumption ledger. |
+
+A theme runs through all five: **be honest about what you don't know.** The
+business cases grade their own evidence, the convention miner refuses to assert
+a rule from four files, the cost tool names models it can't price instead of
+costing them at zero, and the security scanner treats a false positive as the
+failure mode that matters.
+
 ### Shipping ledger
 
 | Product | State | Built with | Proof |
@@ -34,7 +52,7 @@
 
 ### Engineering proof
 
-[Tapt release automation](https://github.com/erickdronski/tapt/tree/main/.github/workflows) · [Lore CI and TestFlight](https://github.com/erickdronski/lore-ios/blob/main/.github/workflows/ios-testflight.yml) · [Merged pull requests](https://github.com/search?q=author%3Aerickdronski+is%3Apr+is%3Amerged&type=pullrequests) · [Achievements](https://github.com/erickdronski?tab=achievements)
+[agentsmith CI](https://github.com/erickdronski/agentsmith/blob/main/.github/workflows/ci.yml) (Python 3.9–3.13 + self-audit) · [tripwire CI](https://github.com/erickdronski/tripwire/blob/main/.github/workflows/ci.yml) (plants a live attack each run) · [Tapt release automation](https://github.com/erickdronski/tapt/tree/main/.github/workflows) · [Lore CI and TestFlight](https://github.com/erickdronski/lore-ios/blob/main/.github/workflows/ios-testflight.yml) · [Merged pull requests](https://github.com/search?q=author%3Aerickdronski+is%3Apr+is%3Amerged&type=pullrequests) · [Achievements](https://github.com/erickdronski?tab=achievements)
 
 ### Day job
 
@@ -45,6 +63,7 @@
 - **Native:** Swift, SwiftUI, Expo, React Native
 - **Web:** TypeScript, Next.js, React, Tailwind CSS, Node.js
 - **Data and delivery:** Supabase, Python, GitHub Actions, Vercel
+- **Agent tooling:** Claude Code skills and plugins, MCP, static analysis, dependency-free Python CLIs
 
 ### Beyond the build
 
@@ -59,6 +78,9 @@
 <p align="center">
   <a href="https://apps.apple.com/us/app/nalee/id6785313667">
     <img alt="Nalee — live on the App Store" src="https://img.shields.io/badge/Nalee-Live_on_the_App_Store-34C759?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+  <a href="https://github.com/erickdronski?tab=repositories&q=&type=source&language=python">
+    <img alt="Open-source agent tooling" src="https://img.shields.io/badge/Open_Source-Agent_Tooling-6b21a8?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://erickdronski.com">
     <img alt="Portfolio — erickdronski.com" src="https://img.shields.io/badge/Portfolio-erickdronski.com-0F1E35?style=for-the-badge&logo=google-chrome&logoColor=white" />
