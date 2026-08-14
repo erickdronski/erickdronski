@@ -21,7 +21,7 @@
 
 ### Open source — tooling for AI coding agents
 
-Small, standalone tools. All MIT, all zero-dependency, all with real test suites.
+Small, standalone tools. All MIT, all zero-dependency, all with real test suites and tagged releases.
 
 | Repo | What it does |
 | --- | --- |
@@ -30,6 +30,7 @@ Small, standalone tools. All MIT, all zero-dependency, all with real test suites
 | **[tripwire](https://github.com/erickdronski/tripwire)** | Offline audit of the skills, MCP servers, hooks, and permissions installed for your agent. Shows your real capability surface, then flags how it can be turned against you. |
 | **[contexttest](https://github.com/erickdronski/contexttest)** | A/B testing for `AGENTS.md`. Runs the same task from the same commit under two instruction sets and reports which one measurably worked. |
 | **[gtm-skills](https://github.com/erickdronski/gtm-skills)** | Nine production-grade go-to-market skills for agents — business cases, ICP scoring, pricing, market sizing — on a tested arithmetic engine with an assumption ledger. |
+| **[contexttest-findings](https://github.com/erickdronski/contexttest-findings)** | Measured results for common `AGENTS.md` rules. Twelve live agent trials so far; the popular "add nothing beyond what was asked" rule showed **no measurable effect**. Null results published on purpose. |
 
 A theme runs through all five: **be honest about what you don't know.** The
 business cases grade their own evidence, the convention miner refuses to assert
