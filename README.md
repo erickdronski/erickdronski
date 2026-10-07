@@ -48,11 +48,11 @@ result was invalid, it published the retraction next to the data.
 | **Nalee** — honest product-toxin scoring backed by a 2.4M+ product library | Live on the App Store | Expo · Supabase | [App Store](https://apps.apple.com/us/app/nalee/id6785313667) · [Site](https://nalee.app) |
 | **Lore** — geospatial place stories hiding in the streets around you | Live on the App Store | Swift · Supabase | [App Store](https://apps.apple.com/us/app/lore-ar-city-history-guide/id6788171860) · [Source](https://github.com/erickdronski/lore-ios) |
 | **Goals** — a cinematic goal-discovery and execution command center for turning intention into daily progress | iOS / TestFlight lane + live web | SwiftUI · TypeScript · Supabase | [Live](https://goals-phi-seven.vercel.app) · Private source |
-| **Tapt** — beer discovery, Passport collecting, and a live beer market | Native iOS release lane | Swift · Supabase | [Source](https://github.com/erickdronski/tapt) |
+| **Tapt** — beer discovery, Passport collecting, and a live beer market | Native iOS release lane | Swift · Supabase | [Source](https://github.com/erickdronski/tapt) · [Site](https://taptbeer.com) |
 | **Mend** — a private app that helps couples connect, grow, and stay in sync | TestFlight | Expo · TypeScript · Supabase | [Source](https://github.com/erickdronski/mend-app) |
 | **Precision Algorithms** — a published prediction-market models desk | Live web product | Data · Web | [Live](https://precisionalgorithms.com) |
-| **SqueezeRadar** — short-squeeze signals with live price overlays | Offline · redeploy pending | Next.js · Market data | Private source |
-| **Penny Catcher** — volume and flow radar for quiet, low-priced tickers | Offline · redeploy pending | Next.js · Market data | Private source |
+| **SqueezeRadar** — short-squeeze signals with live price overlays | Live web product | Next.js · Market data | [Live](https://short-squeeze-radar.vercel.app) · Private source |
+| **Penny Catcher** — volume and flow radar for quiet, low-priced tickers | Live web product | Next.js · Market data | [Live](https://penny-catcher.vercel.app) · Private source |
 
 ### Engineering proof
 
