@@ -6,6 +6,10 @@ I turn business problems into useful software, from tools for AI coding agents t
 
 [Portfolio](https://erickdronski.com) · [LinkedIn](https://www.linkedin.com/in/erickdronski/) · [Email](mailto:esdronski@gmail.com)
 
+Follow along for practical AI tools, reproducible experiments, and the decisions behind shipped products.
+
+**Try one:** [run a business case with visible assumptions](https://github.com/erickdronski/gtm-skills#see-it-work) — no AI subscription or API key required.
+
 ## Selected open source
 
 | Project | What it helps you do |
@@ -24,6 +28,10 @@ I turn business problems into useful software, from tools for AI coding agents t
 | --- | --- | --- |
 | **Nalee** | Scans everyday products and explains ingredients with source links. | [App Store](https://apps.apple.com/us/app/nalee/id6785313667) · [Website](https://nalee.co) |
 | **Lore** | Helps people discover nearby places and their history through maps, a camera scanner, and self-guided tours. | [App Store](https://apps.apple.com/us/app/lore-ar-city-history-guide/id6788171860) · [Source](https://github.com/erickdronski/lore-ios) |
+
+## Open-source contribution
+
+Credited as an **analyst** on [CVE-2026-40179](https://github.com/advisories/GHSA-vffh-x6r8-xx99), a published Prometheus security advisory.
 
 ## Business and enterprise work
 
