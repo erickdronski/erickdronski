@@ -1,22 +1,58 @@
-# Erick Dronski
+<a href="https://erickdronski.com"><img src="assets/header.png" width="100%" alt="Erick Dronski. In the business of building business. Technical marketer, product builder, value engineer."></a>
 
-**Value engineering · Customer success · AI adoption**
+### I tell the story, make the data clear, and build the tools.
 
-I connect business needs with practical software. My background in value
-engineering and customer success shapes the work: clear assumptions, measurable
-outcomes, and tools people can use.
+I'm a technical marketer in Mount Laurel, New Jersey. I co-founded [Precision Algorithms](https://precisionalgorithms.com), where I run marketing, and spent 2024 to 2026 in value engineering and customer success at Ivanti, building [business cases and workshop tools](https://erickdronski.com/work/ivanti) for teams across EMEA and APAC. I also design and ship my own iPhone apps.
 
-At **Ivanti**, I contributed to capability assessments, ROI models, customer
-workshops, and team enablement. [Enterprise case study](https://erickdronski.com/work/ivanti).
+The code lives here. Each tool shows its work: stated assumptions, tested arithmetic, published limits.
 
-[Portfolio](https://erickdronski.com) · [LinkedIn](https://www.linkedin.com/in/erickdronski/)
+## Open-source tools
 
-## Selected work
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/erickdronski/gtm-skills"><b>gtm-skills</b></a><br>
+      Business cases, account scoring, pricing, market sizing, and pipeline math for AI agents. A tested Python engine does the arithmetic, and an assumption ledger labels each input as a fact, an inference, or an assumption.<br>
+      <sub><a href="https://github.com/erickdronski/gtm-skills#see-it-work">Worked example</a> · Claude Code plugin · Python 3.9+, no dependencies</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/erickdronski/agentsmith"><b>agentsmith</b></a><br>
+      Derives a repository's <code>AGENTS.md</code> from its code, configuration, and Git history, keeps the evidence behind every rule, and fails CI when the file drifts from the code. Writes Claude Code, Cursor, and Copilot formats.<br>
+      <sub><a href="https://github.com/erickdronski/agentsmith#drift-detection">Drift detection</a> · <a href="https://github.com/erickdronski/agentsmith#evidence-and-limits">Evidence and limits</a> · Local CLI, no LLM</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/erickdronski/contexttest"><b>contexttest</b></a><br>
+      A/B tests whether a change to coding-agent instructions actually helps, with paired runs in isolated worktrees and a reproducible report.<br>
+      <sub><a href="https://github.com/erickdronski/contexttest-findings">Published experiments</a>, including a failed prediction and a retraction</sub>
+    </td>
+  </tr>
+</table>
 
-| Project | Focus | Evidence |
-| --- | --- | --- |
-| [**gtm-skills**](https://github.com/erickdronski/gtm-skills) | Business cases, pricing, and market analysis with explicit assumptions and reproducible Python calculations. | [Worked example](https://github.com/erickdronski/gtm-skills#see-it-work) |
-| [**Lore**](https://github.com/erickdronski/lore-ios) | A native iPhone and iPad city-history guide, from product design through release. | [App Store](https://apps.apple.com/us/app/lore-ar-city-history-guide/id6788171860) · [Architecture](https://github.com/erickdronski/lore-ios#architecture) |
-| [**agentsmith**](https://github.com/erickdronski/agentsmith) | Repository-derived instructions and drift checks for coding assistants, including GitHub Copilot. | [Usage and limitations](https://github.com/erickdronski/agentsmith#evidence-and-limits) |
+## Shipped apps
 
-MBA, Data Analytics concentration — Rowan University. Based in New Jersey.
+<table>
+  <tr>
+    <td>
+      <a href="https://apps.apple.com/us/app/lore-ar-city-history-guide/id6788171860"><b>Lore</b></a><br>
+      A city guide for iPhone and iPad that tells the stories behind the places you walk past, with narration and walking tours. Built with SwiftUI, MapKit, and StoreKit 2.<br>
+      <sub><a href="https://apps.apple.com/us/app/lore-ar-city-history-guide/id6788171860">App Store</a> · <a href="https://github.com/erickdronski/lore-ios">Source and architecture</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://apps.apple.com/us/app/nalee/id6785313667"><b>Nalee</b></a><br>
+      Scan a barcode or photograph an ingredient label to understand the food, beauty, and household products you use.<br>
+      <sub><a href="https://apps.apple.com/us/app/nalee/id6785313667">App Store</a> · <a href="https://nalee.co">nalee.co</a></sub>
+    </td>
+  </tr>
+</table>
+
+Consulting and enterprise work, including Precision Algorithms, Edrich Consulting, and the Ivanti capability assessment, is on [erickdronski.com/work](https://erickdronski.com/work).
+
+MBA, Data Analytics, Rowan University. Open to full-time roles in value engineering, GTM engineering, customer success, and solutions engineering, in the New York metro area or remote.
+
+[Portfolio](https://erickdronski.com) · [LinkedIn](https://www.linkedin.com/in/erickdronski/) · [X](https://x.com/DronskiErick) · [esdronski@gmail.com](mailto:esdronski@gmail.com)
