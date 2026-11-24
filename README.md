@@ -11,6 +11,13 @@ The code lives here. Each tool shows its work: stated assumptions, tested arithm
 <table>
   <tr>
     <td>
+      <a href="https://github.com/erickdronski/fn7"><b>fn/7</b></a><br>
+      A marketplace in development for people and AI agents to discover skills, code, and templates from independent creators.<br>
+      <sub><a href="https://github.com/erickdronski/fn7/blob/e93a2309b8553f638c2eba657326054dbfa1ca8b/README.md#run-it">Run the storefront locally</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/erickdronski/gtm-skills"><b>gtm-skills</b></a><br>
       Build and share a business case that shows which assumption could change the decision. The Python toolkit also handles account scoring, pricing, market sizing, and pipeline math.<br>
       <sub><a href="https://github.com/erickdronski/gtm-skills#see-it-work">Worked example</a> · Standalone CLI and Claude Code plugin</sub>
