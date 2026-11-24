@@ -18,6 +18,13 @@ The code lives here. Each tool shows its work: stated assumptions, tested arithm
   </tr>
   <tr>
     <td>
+      <a href="https://github.com/erickdronski/marketing-engineering"><b>marketing-engineering</b></a><br>
+      Helps small marketing teams review campaign drafts and see which website inquiries became booked estimates.<br>
+      <sub><a href="https://github.com/erickdronski/marketing-engineering/blob/v0.1.0/recipes/lead-handoff/README.md">Turn two exports into a follow-up worklist</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/erickdronski/agentsmith"><b>agentsmith</b></a><br>
       Generates <code>AGENTS.md</code> from a repository’s code, configuration, and Git history. Each generated rule includes its evidence on request. Its CI check catches contradictions, such as instructions that ask for a missing script.<br>
       <sub><a href="https://github.com/erickdronski/agentsmith#drift-detection">Drift detection</a> · <a href="https://github.com/erickdronski/agentsmith#evidence-and-limits">Evidence and limits</a> · Local CLI, no LLM</sub>
