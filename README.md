@@ -27,7 +27,7 @@ The code lives here. Each tool shows its work: stated assumptions, tested arithm
     <td>
       <a href="https://github.com/erickdronski/marketing-engineering"><b>marketing-engineering</b></a><br>
       Helps small marketing teams review campaign drafts and see which website inquiries became booked estimates.<br>
-      <sub><a href="https://github.com/erickdronski/marketing-engineering/blob/v0.1.0/recipes/lead-handoff/README.md">Turn two exports into a follow-up worklist</a></sub>
+      <sub><a href="https://github.com/erickdronski/marketing-engineering/blob/v0.1.1/recipes/lead-handoff/README.md">Turn two exports into a follow-up worklist</a></sub>
     </td>
   </tr>
   <tr>
