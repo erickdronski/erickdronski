@@ -12,14 +12,14 @@ The code lives here. Each tool shows its work: stated assumptions, tested arithm
   <tr>
     <td>
       <a href="https://github.com/erickdronski/gtm-skills"><b>gtm-skills</b></a><br>
-      Business cases, account scoring, pricing, market sizing, and pipeline math for AI agents. A tested Python engine does the arithmetic, and an assumption ledger labels each input as a fact, an inference, or an assumption.<br>
-      <sub><a href="https://github.com/erickdronski/gtm-skills#see-it-work">Worked example</a> · Claude Code plugin · Python 3.9+, no dependencies</sub>
+      Build and share a business case that shows which assumption could change the decision. The Python toolkit also handles account scoring, pricing, market sizing, and pipeline math.<br>
+      <sub><a href="https://github.com/erickdronski/gtm-skills#see-it-work">Worked example</a> · Standalone CLI and Claude Code plugin</sub>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/erickdronski/agentsmith"><b>agentsmith</b></a><br>
-      Derives a repository's <code>AGENTS.md</code> from its code, configuration, and Git history, keeps the evidence behind every rule, and fails CI when the file drifts from the code. Writes Claude Code, Cursor, and Copilot formats.<br>
+      Generates <code>AGENTS.md</code> from a repository’s code, configuration, and Git history. Each generated rule includes its evidence on request. Its CI check catches contradictions, such as instructions that ask for a missing script.<br>
       <sub><a href="https://github.com/erickdronski/agentsmith#drift-detection">Drift detection</a> · <a href="https://github.com/erickdronski/agentsmith#evidence-and-limits">Evidence and limits</a> · Local CLI, no LLM</sub>
     </td>
   </tr>
