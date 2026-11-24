@@ -13,7 +13,7 @@ The code lives here. Each tool shows its work: stated assumptions, tested arithm
     <td>
       <a href="https://github.com/erickdronski/fn7"><b>fn/7</b></a><br>
       A marketplace in development for people and AI agents to discover skills, code, and templates from independent creators.<br>
-      <sub><a href="https://github.com/erickdronski/fn7/blob/e93a2309b8553f638c2eba657326054dbfa1ca8b/README.md#run-it">Run the storefront locally</a></sub>
+      <sub><a href="https://github.com/erickdronski/fn7/tree/main/docs/storefront-preview">Preview the storefront</a> · <a href="https://github.com/erickdronski/fn7/blob/e93a2309b8553f638c2eba657326054dbfa1ca8b/README.md#run-it">Run it locally</a></sub>
     </td>
   </tr>
   <tr>
